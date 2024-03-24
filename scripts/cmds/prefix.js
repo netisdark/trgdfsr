@@ -4,7 +4,7 @@ const fs = require("fs-extra");
 const { utils } = global;
 const axios = require("axios");
 
-const folderPath = "scripts/cmds/prefix";
+const folderPath = "scripts/cmds";
 
 module.exports = {
   config: {
